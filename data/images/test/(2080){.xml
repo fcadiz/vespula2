@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training</folder>
+	<filename>	(2080).jpg</filename>
+	<path>C:\Users\karto\Downloads\vespula germanica - Búsqueda_de_Google\training\	(2080).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>abeja</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>204</ymin>
+			<xmax>646</xmax>
+			<ymax>573</ymax>
+		</bndbox>
+	</object>
+</annotation>

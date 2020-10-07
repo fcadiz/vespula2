@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training</folder>
+	<filename>	(500).jpg</filename>
+	<path>C:\Users\karto\Downloads\vespula germanica - Búsqueda_de_Google\training\	(500).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chax</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>59</ymin>
+			<xmax>790</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>
